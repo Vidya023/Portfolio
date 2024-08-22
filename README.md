@@ -12,7 +12,7 @@
 
 ### 2. Event Testing
 
-1. [Event Study Analysis of Demonetization and Its Effects on SBI Index](Event_Testing/Event-analysis.ipynb)
+1. [Event Study Analysis of Demonetization and Its Effects on SBI Index](Event_Testing)
 
 ### 3. Option Pricing Models
 
