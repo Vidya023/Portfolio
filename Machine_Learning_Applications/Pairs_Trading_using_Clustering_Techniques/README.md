@@ -1,4 +1,4 @@
-# Clustering-Based Financial Strategies: Pair Trading and Portfolio Optimization
+# Clustering-Based Identification of Highly Correlated Pairs in the NIFTY Index
 
 ### Objectives: 
 
