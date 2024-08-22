@@ -1,4 +1,4 @@
-# Cryptocurrency price forecasting, using machine learning and deep learning Technique 
+# Cryptocurrency price forecasting, using machine learning and deep learning Techniques 
 
 ### Summary
 
