@@ -24,6 +24,6 @@
 
 ### 5. Machine Learning Applications
 
-1. [Stock price prediction using machine learning and deep learning techniques](Machine_Learning_Applications\Bitcoin_close_price_forecasting_using_ml_and_dl_techniques)
-2. [Clustering-Based Identification of Highly Correlated Pairs in the NIFTY Index](Machine_Learning_Applications\Pairs_Trading_using_Clustering_Techniques)
-3. [Predicting Stock Trend using Random Forest Technical Analysis](Machine_Learning_Applications\Predicting_Stock_Trends_Random_Forest_Technical_Analysis)
+1. [Stock price prediction using machine learning and deep learning techniques](Machine_Learning_Applications/Bitcoin_close_price_forecasting_using_ml_and_dl_techniques)
+2. [Clustering-Based Identification of Highly Correlated Pairs in the NIFTY Index](Machine_Learning_Applications/Pairs_Trading_using_Clustering_Techniques)
+3. [Predicting Stock Trend using Random Forest Technical Analysis](Machine_Learning_Applications/Predicting_Stock_Trends_Random_Forest_Technical_Analysis)
