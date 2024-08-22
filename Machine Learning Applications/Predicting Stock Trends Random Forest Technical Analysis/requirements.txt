@@ -1,0 +1,8 @@
+ipykernel
+pandas=3.10
+ta-lib 
+numpy
+matplotlib
+seaborn
+scikit-learn
+-e .
