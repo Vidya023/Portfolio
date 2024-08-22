@@ -11,18 +11,18 @@
 
 ### Plot the adjusted closing prices of SBI and Nifty 50 with interval of event defined
 
-![SBI](images\sbi.png) 
+![SBI](images/sbi.png) 
 
-![NIFTY](images\nifty.png)
+![NIFTY](images/nifty.png)
 
 
 ### Plot abnormal returns around the event date
 
-![Abnormal](images\abnormal.png)
+![Abnormal](images/abnormal.png)
 
 ### Interpretation and Result
 
-![Stat result](images\stat.png)
+![Stat result](images/stat.png)
 
 Interpretation
 Statistical Significance: The p-value of 0.740 is much larger than typical significance levels (0.05 or 0.01). This means there is no statistically significant evidence to suggest that the demonetization event had a significant impact on SBI’s abnormal returns.
